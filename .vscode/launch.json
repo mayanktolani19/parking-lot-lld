@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: ParkingLot",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/ParkingLot/ParkingLot.csproj",
+            "launchConfigurationId": "TargetFramework=;ParkingLot"
+        }
+    ]
+}
